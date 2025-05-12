@@ -123,7 +123,7 @@ Copy
 Edit
 npm run dev
 Access App
-Open http://localhost:5173 in your browser.
+Open http://localhost:<port>, the port where your application is running in your browser.
 
 🚧 5. Roadmap
 🔒 RLS & RPC Audits
