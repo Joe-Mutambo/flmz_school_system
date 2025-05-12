@@ -131,7 +131,7 @@ VITE_SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_PUBLIC_KEY
 Replace the placeholder values with your actual Supabase Project URL and Anon Key (found in Project Settings -> API).
 Ensure .env is added to your .gitignore file.
 Run Development Server: npm run dev (or yarn dev)
-Access Application: Open your browser to http://localhost:5173 (or the port specified by Vite).
+Access Application: Open your browser to http://localhost:<port> (or the port specified by Vite).
 Test Logins: Use the test credentials provided (e.g., teacher_test@example.com, field_officer_test@example.com) or sign up new users (if signup is configured).
 
 
